@@ -1,0 +1,2 @@
+Should the try catch be on the front end or on the back end? 
+I need to figure out it out and change code accordingly
